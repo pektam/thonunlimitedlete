@@ -1,0 +1,5 @@
+telethon==1.30.3
+cryptg==0.4.0
+pillow==10.0.1
+aiohttp==3.8.5
+pysocks==1.7.1
